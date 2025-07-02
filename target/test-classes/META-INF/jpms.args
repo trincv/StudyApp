@@ -1,0 +1,4 @@
+--patch-module
+StudyApp=_
+--add-reads
+StudyApp=ALL-UNNAMED
